@@ -1,0 +1,55 @@
+header {
+  margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  text-align: center;
+  color: #000000;
+}
+
+h1 {
+  color:black; 
+  letter-spacing: 3px;
+  background-color: rgb(252, 3, 182);
+  opacity: 0.2;
+}
+
+body {
+  font-family: Lato, sans-serif;
+  font-size: 100%;
+  color:#000000;
+  line-height: 175%;
+  margin: 0 15% 0;
+  background-color: #fcebea;
+}
+
+p {
+  word-spacing: 4px;
+}
+
+p#contact {
+  font-size: 100%;
+}
+
+ul.a {
+  list-style-type: circle;
+}
+
+/* unvisited link */
+a:link {
+  color: purple;
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
